@@ -1,0 +1,37 @@
+.big {
+    background-color: pink;
+    height: 40px;
+    display: flex; 
+    align-items: center;
+}
+
+header{
+    background-color: hotpink;
+    height:30px;
+    width: 100%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dog {
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.dog img {
+    width: 100%;
+    border-radius: 50%;
+
+}
+
+.search {
+    background-color: fuchsia;
+    display: block;
+    box-sizing: border-box;
+}
